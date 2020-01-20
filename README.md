@@ -23,4 +23,4 @@ Exam is of average difficulty level for a well prepared student. There are 30% o
 
 **The result**
 
-Once I answered all the questions and reviewd the flagged ones, I was quite unsure of the result because Docker does not reveal the score required to pass the exam and I did not really feel confident about the result (Thanks to those tricky questions and couple of questions which I did not know the answer). Anyway, the result 'PASS' was presented immediately after I submitted the answers and later the section wise performance report was sent to my email.  I did the claculation and my score is 85%.
+Once I answered all the questions and reviewd the flagged ones, I was quite unsure of the result because Docker does not reveal the score required to pass the exam and I did not really feel confident about the result (Thanks to those tricky questions and couple of questions which I did not know the answer). Anyway, the result 'PASS' was presented to me immediately after I submitted the answers and later the section wise performance report was sent to my email.  I did the calculation and my score was 85%.
