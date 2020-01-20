@@ -4,7 +4,7 @@
   - Syllabus is available in Study Guide by Docker - https://docker.cdn.prismic.io/docker%2Fa2d454ff-b2eb-4e9f-af0e-533759119eee_dca+study+guide+v1.0.1.pdf
 
 **How I learned/prepared**
-- Learned Docker using the ‘Docker Mastery’ course by Bret Fisher - https://www.udemy.com/course/docker-mastery/. I recommend this to every Docker student.
+- Learned Docker using the ‘Docker Mastery’ course by Bret Fisher - https://www.udemy.com/course/docker-mastery/. I recommend this to every Docker student. I am now (Post certification) doing the docker and Kubernetes course by Stephen Grider which is also a good course as far as I have completed.
 - For hands-on experience, use https://labs.play-with-docker.com/
 - Read the official Docker documentation on basic commands, swarm and service. https://docs.docker.com/
 - Read the links in this repo to understand the core concepts - https://github.com/Evalle/DCA
